@@ -11,6 +11,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
     "core-js": "^3.15.1",
+    "netlify-cms-app": "^2.15.44",
     "nuxt": "^2.15.7",
     "storyblok-nuxt": "^2.0.1"
   },
